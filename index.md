@@ -11,9 +11,7 @@ This is for the theory; let's have a look now.
 * Diskussionsfreudig
 * Offen
 
-:owl:
-
 John Galsworthy sagte
 > Der Idealismus wächst mit der Entfernung vom Problem.
 
-<img src="https://de.wikipedia.org/wiki/Datei:Naturschutzgebiet.svg"/>
+<img src="https://www.nabu.de/imperia/md/nabu/images/arten/tiere/voegel/eulen/20161013_waldkauze_dieterhopflbv_680x453.jpeg" alt="Nabu.de Foto: Dieter Hopf"/>
