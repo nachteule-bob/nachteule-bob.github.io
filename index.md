@@ -10,4 +10,6 @@ This is for the theory; let's have a look now.
 * Ausdauer
 * Diskussionsfreudig
 * Offen
-  
+
+John Galsworthy sagte
+> Der Idealismus wächst mit der Entfernung vom Problem.
